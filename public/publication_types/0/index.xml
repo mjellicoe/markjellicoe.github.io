@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Mark Jellicoe</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Mark Jellicoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Construction and Validation of the Feedback in Learning Scale (In preparation)</title>
+      <link>/publication/validation-of-fls/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/validation-of-fls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Construction and Validation of the Goals in Learning Scale (In preparation)</title>
+      <link>/publication/validation-of-gls/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/validation-of-gls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The acquisition of productive knowledge and attitudes through learning (In preparation)</title>
+      <link>/publication/the-acquisition-of-productive-knowledge-and-attitudes-through-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/the-acquisition-of-productive-knowledge-and-attitudes-through-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
